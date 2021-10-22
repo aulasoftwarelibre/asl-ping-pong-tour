@@ -41,5 +41,5 @@ export class Match {
 		return this.player2;
 	}
 
-	// TODO : Funciones de suma, resta de puntos, tener en cuenta la diferencia de 2, funcion de score.
+	// TODO : Funciones de suma, resta de puntos, tener en cuenta la diferencia de 2, funcion de score
 }
