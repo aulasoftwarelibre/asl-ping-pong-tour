@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/asl-ping-pong-tour/static/css/main.a617e044.chunk.css",
+    "main.js": "/asl-ping-pong-tour/static/js/main.ada364eb.chunk.js",
+    "main.js.map": "/asl-ping-pong-tour/static/js/main.ada364eb.chunk.js.map",
+    "runtime-main.js": "/asl-ping-pong-tour/static/js/runtime-main.6e95ff85.js",
+    "runtime-main.js.map": "/asl-ping-pong-tour/static/js/runtime-main.6e95ff85.js.map",
+    "static/js/2.429c70ed.chunk.js": "/asl-ping-pong-tour/static/js/2.429c70ed.chunk.js",
+    "static/js/2.429c70ed.chunk.js.map": "/asl-ping-pong-tour/static/js/2.429c70ed.chunk.js.map",
+    "static/js/3.8af3e15b.chunk.js": "/asl-ping-pong-tour/static/js/3.8af3e15b.chunk.js",
+    "static/js/3.8af3e15b.chunk.js.map": "/asl-ping-pong-tour/static/js/3.8af3e15b.chunk.js.map",
+    "index.html": "/asl-ping-pong-tour/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/asl-ping-pong-tour/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.429c70ed.chunk.js.LICENSE.txt": "/asl-ping-pong-tour/static/js/2.429c70ed.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/asl-ping-pong-tour/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e95ff85.js",
+    "static/js/2.429c70ed.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.ada364eb.chunk.js"
+  ]
+}
