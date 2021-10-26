@@ -11,12 +11,12 @@ export class Match {
         this.scorePlayer2 = 0;
       }
     
-    setScorePlayer1(theScore: number) {
-        this.scorePlayer1 = theScore;
+    setScorePlayer1(score: number) {
+        this.scorePlayer1 = score;
     }
 
-    setScorePlayer2(theScore: number) {
-        this.scorePlayer2 = theScore;
+    setScorePlayer2(score: number) {
+        this.scorePlayer2 = score;
     }
     
     setNamePlayer1(player1: string){
